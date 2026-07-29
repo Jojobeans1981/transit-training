@@ -86,7 +86,7 @@ export default function AdminDashboard() {
       if (dbError) throw dbError;
       setSuccess('Generating quiz from training material...');
       const quizData = await generateQuiz(fileContent, selectedIndustry.system_prompt, selectedIndustry.name);
-      const { error: quizError } = await db.createGeneratedMaterial(materialData.data[0].id, 'quiz', quizData);
+      const { error: quizError } = await db.createGeneratedMaterial(materialData[0].id, 'quiz', quizData);
       if (quizError) throw quizError;
       setSuccess('Material uploaded and quiz generated successfully!');
       setTrainingFile(null);
