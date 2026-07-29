@@ -1,0 +1,18 @@
+NYC TRANSIT DISPATCHER TRAINING MANUAL
+
+Chapter 1: Radio Protocols
+- Always use clear, concise language
+- Maintain professional tone at all times
+- Report incidents within 2 minutes
+- Use proper phonetic alphabet for clarity
+
+Chapter 2: Safety Procedures
+- Check station safety before dispatching trains
+- Coordinate with platform operators
+- Emergency protocols: Red button = all-stop
+- Report delays to central command
+
+Chapter 3: Common Issues
+- Signaling failures: Contact maintenance immediately
+- Passenger incidents: Follow incident reporting form
+- Track obstructions: Close line section
